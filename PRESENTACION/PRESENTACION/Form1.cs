@@ -15,6 +15,7 @@ namespace PRESENTACION
         public Form1()
         {
             InitializeComponent();
+            //prueba de edicion a ver si no hace de peod sin commit
         }
     }
 }
